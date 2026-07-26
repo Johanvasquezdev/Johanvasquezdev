@@ -102,7 +102,7 @@ Feel free to reach out if you want to collaborate on a project or just chat abou
   <a href="https://www.linkedin.com/in/johan-gabriel-vasquez-5b539a312/">
     <img src="https://img.shields.io/badge/LinkedIn-222222?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:johanvasquezdev3@gmail.com">
     <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
