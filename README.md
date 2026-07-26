@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I like building software that actually gets used. Currently studying at ITLA and spending most of my free time working on full-stack apps, messing with AI/LLMs, and figuring out cloud architecture. Beyond just making things work, I care a lot about how systems are built under the hood—so I focus heavily on system design, building robust RESTful APIs, and structuring my projects with Onion/Clean Architecture to keep things maintainable. I learn best by building complete systems from scratch.
+  I like building software that actually gets used. Currently studying at ITLA and spending most of my free time working on full-stack apps, messing with AI/LLMs, and figuring out cloud architecture. Beyond just making things work, I care a lot about how systems are built under the hood so I focus heavily on system design, building robust RESTful APIs, and structuring my projects with Onion/Clean Architecture to keep things maintainable. I learn best by building complete systems from scratch.
 </p>
 
 ---
