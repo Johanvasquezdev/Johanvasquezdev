@@ -17,7 +17,7 @@ Right now, my main focus is on a few core projects:
 - **[Meridas](https://github.com/Johanvasquezdev/supportmind-ai):** An automated customer support SaaS. I built this using Next.js and integrated OpenAI to handle RAG-based context retrieval.
 - **[MedAgenda](https://github.com/Johanvasquezdev/MedAgenda):** A healthcare scheduling backend. I wrote this in C# & .NET to practice implementing a strict clean architecture and managing relational data.
 - **[Artemis Banking Pro](https://github.com/Johanvasquezdev/ArtemisBankingPro):** A full onion architecture financial netbanking application built in .NET 9 and ASP.NET MVC, with Tailwind, Integrated and Unit Tests, and Azure Functions.
-- **[Hopchain](https://github.com/Johanvasquezdev/ImportCost-Pro):** A .NET 9 utility for automating import tax and shipping fee math.
+- **[Armelis](https://github.com/Johanvasquezdev/ImportCost-Pro):** A .NET 9 utility for automating import tax and shipping fee math.
 
 ---
 
